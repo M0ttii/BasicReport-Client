@@ -1,0 +1,14 @@
+tv\m0ttii\basicreport\objects\ReportPlayer.class
+tv\m0ttii\basicreport\socketio\SocketIO.class
+tv\m0ttii\basicreport\BasicReport.class
+tv\m0ttii\basicreport\rest\Greeting.class
+tv\m0ttii\basicreport\objects\Report.class
+tv\m0ttii\basicreport\commands\ReportCommand.class
+tv\m0ttii\basicreport\socketio\SocketIOClient$1.class
+tv\m0ttii\basicreport\PermissionManager.class
+tv\m0ttii\basicreport\listener\JoinListener.class
+tv\m0ttii\basicreport\rest\Application.class
+tv\m0ttii\basicreport\socketio\SocketIOClient.class
+tv\m0ttii\basicreport\rest\GreetingController.class
+tv\m0ttii\basicreport\report\ReportManager.class
+tv\m0ttii\basicreport\objects\ReportReason.class
